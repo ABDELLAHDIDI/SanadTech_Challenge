@@ -36,7 +36,12 @@ Make sure you have the following installed:
     npm install
     ```
 
-4. Start the server:
+4. Install the cros  dependencies:
+
+    ```
+    npm i cros 
+    ```
+5. Start the server:
 
     ```
     npm start
